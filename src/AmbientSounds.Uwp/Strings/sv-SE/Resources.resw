@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CloseCompactMode.AutomationProperties.Name" xml:space="preserve">
-    <value>Stänga kompaktläge</value>
+    <value>Stäng kompaktläge</value>
   </data>
   <data name="CloseCompactMode.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Stänga kompaktläge</value>
+    <value>Stäng kompaktläge</value>
   </data>
   <data name="CloseText" xml:space="preserve">
-    <value>Stänga</value>
+    <value>Stäng</value>
   </data>
   <data name="Copyright.Text" xml:space="preserve">
     <value>Upphovsrätt</value>
@@ -43,7 +43,7 @@
     <value>Kontakta skaparen</value>
   </data>
   <data name="RateUsText" xml:space="preserve">
-    <value>Gradera oss</value>
+    <value>Betygsätt oss</value>
   </data>
   <data name="MoreButtonSettings.Label" xml:space="preserve">
     <value>Inställningar</value>
@@ -79,7 +79,7 @@
     <value>Telemetri</value>
   </data>
   <data name="SettingsText" xml:space="preserve">
-    <value>Inställingnar</value>
+    <value>Inställningar</value>
   </data>
   <data name="SleepTimerButton.AutomationProperties.Name" xml:space="preserve">
     <value>Visa alternativ för sömntimer</value>
@@ -278,10 +278,10 @@
     <value>Detta kommer att aktivera synkronisering av ljudgalleri mellan dina enheter.</value>
   </data>
   <data name="AccountOptionsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>View kontoalternativ</value>
+    <value>Visa kontoalternativ</value>
   </data>
   <data name="AccountOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>View kontoalternativ</value>
+    <value>Visa kontoalternativ</value>
   </data>
   <data name="SignInButton.AutomationProperties.Name" xml:space="preserve">
     <value>Logga in</value>
@@ -641,7 +641,7 @@
     <value>Dra och släpp musik för att anpassa din startsida. Prova det nu!</value>
   </data>
   <data name="EmptyCatalogueMessage" xml:space="preserve">
-    <value>Förlåt för det! Vi kunde inte ladda katalogen. Prova att kontrollera din internetanslutning.</value>
+    <value>Förlåt! Vi kunde inte ladda katalogen. Prova att kontrollera din internetanslutning.</value>
   </data>
   <data name="AboutAmbie" xml:space="preserve">
     <value>Om Ambie</value>
